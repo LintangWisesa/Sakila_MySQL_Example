@@ -1,3 +1,5 @@
+![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s1600/simpLINnovation1a.png)
+
 # Install Sakila Database MySQL Example
 
 #### 1. Download & extract it to your directory, e.g. *C:\data\db*. When you unpack the archive, it creates a directory named *sakila-db* that contains *sakila-schema.sql, sakila-data.sql, sakila.mwb & SampleSakila.png* files.
