@@ -42,3 +42,14 @@
 ![Sakila Database Design](https://raw.githubusercontent.com/LintangWisesa/Sakila_MySQL_Example/master/SampleSakila.png)
 
 ### More information [click here](https://dev.mysql.com/doc/sakila/en/sakila-introduction.html).
+
+#
+
+#### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
+
+[Facebook](https://www.facebook.com/lintangbagus) | 
+[Twitter](https://twitter.com/Lintang_Wisesa) |
+[Google+](https://plus.google.com/u/0/+LintangWisesa1) |
+[Youtube](https://www.youtube.com/user/lintangbagus) | 
+:octocat: [GitHub](https://github.com/LintangWisesa) |
+[Hackster](https://www.hackster.io/lintangwisesa)
